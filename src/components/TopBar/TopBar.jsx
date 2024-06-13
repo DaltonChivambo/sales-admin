@@ -6,7 +6,7 @@ function TopBar() {
   return (
     <div className='topbar'>
       <div className="topbar-wrapper">
-        <div className="top-left"><span className='logo'>CXINTER</span></div>
+        <div className="top-left"><span className='logo'>IBSHOP</span></div>
         <div className="top-right">
             <div className="topbar-icon-container">
                 <NotificationsNone/>
