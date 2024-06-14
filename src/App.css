@@ -1,8 +1,5 @@
 .container{
     display: flex;
+    margin-top: 15px;
 }
 
-.others{
-    flex: 4;
-    background-color: darkcyan;
-}
